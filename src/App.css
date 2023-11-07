@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.upload-shit {
+    padding-top: 2rem;
+}
+
+.list-container {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.list-container img {
+    width: 300px;
+    margin: 10px;
+}
